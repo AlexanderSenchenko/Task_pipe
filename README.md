@@ -1,5 +1,6 @@
 # Task_pipe
 Компиляция: make
+
 Запуск: ./main
 
 task1:
